@@ -1,4 +1,4 @@
-# Galax
+# Galax - ANGRY Owl Group
 This is repository for ITcube Creative hakaton 
 that is sources of the 2D action game in space theme
 ----------------------------------------------------
